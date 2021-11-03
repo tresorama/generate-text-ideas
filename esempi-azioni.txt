@@ -1,0 +1,53 @@
+Mario gioca a pallone in cortile.
+
+Mario gioca a pallone al bar.
+
+Mario gioca a pallone in camera.
+
+Mario scrive una lettera in cortile.
+
+Mario scrive una lettera al bar.
+
+Mario scrive una lettera in camera.
+
+Mario salta la corda in cortile.
+
+Mario salta la corda al bar.
+
+Mario salta la corda in camera.
+
+Luigi gioca a pallone in cortile.
+
+Luigi gioca a pallone al bar.
+
+Luigi gioca a pallone in camera.
+
+Luigi scrive una lettera in cortile.
+
+Luigi scrive una lettera al bar.
+
+Luigi scrive una lettera in camera.
+
+Luigi salta la corda in cortile.
+
+Luigi salta la corda al bar.
+
+Luigi salta la corda in camera.
+
+Silvio gioca a pallone in cortile.
+
+Silvio gioca a pallone al bar.
+
+Silvio gioca a pallone in camera.
+
+Silvio scrive una lettera in cortile.
+
+Silvio scrive una lettera al bar.
+
+Silvio scrive una lettera in camera.
+
+Silvio salta la corda in cortile.
+
+Silvio salta la corda al bar.
+
+Silvio salta la corda in camera.
