@@ -1,0 +1,9 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "author": "Jacopo Marrone",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

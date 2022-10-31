@@ -1,20 +1,3 @@
-# When it's useful ??
-
-When you need to generate a lot of combinations of strings to later analyze them and choose from.
-The script generate the Cartesian Product of arrays of strings.
-
-Example:
-```ts
-
-const input = [
-  ["Mario", "Luigi", "Silvio"],
-  ["gioca a pallone", "scrive una lettera", "salta la corda"],
-  ["in cortile", "al bar", "in camera"],
-];
-
-const output = generateTextPermutation(input);
-
-// output  =>
 [
   "Mario gioca a pallone in cortile",
   "Mario gioca a pallone al bar",
@@ -44,4 +27,3 @@ const output = generateTextPermutation(input);
   "Silvio salta la corda al bar",
   "Silvio salta la corda in camera"
 ]
-```
