@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "app/node-js",
+  "version": "0.0.0",
+  "author": "Jacopo Marrone",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@tresorama-test-lib/generate-text-permutation": "workspace:*",
+    "@tresorama-test-lib/save-to-disk": "workspace:*"
+  }
+}
